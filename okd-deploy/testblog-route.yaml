@@ -4,7 +4,6 @@ metadata:
   labels:
     app: blog-frontend
   name: blog-frontend
-  namespace: blackwhale-devops
 spec:
   port:
     targetPort: 3000
